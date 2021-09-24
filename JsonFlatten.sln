@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonFlatten", "JsonFlatten\JsonFlatten.csproj", "{F5F9BD6B-AFC0-4566-BB1A-27D544DDEA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F9BD6B-AFC0-4566-BB1A-27D544DDEA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F9BD6B-AFC0-4566-BB1A-27D544DDEA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F9BD6B-AFC0-4566-BB1A-27D544DDEA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F9BD6B-AFC0-4566-BB1A-27D544DDEA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0F9917F-5E84-46C5-A181-81D5699F0098}
+	EndGlobalSection
+EndGlobal
